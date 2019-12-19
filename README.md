@@ -1,8 +1,13 @@
-# Perschola Maven Template
-* **Objective** - The purpose of this repository is to create a standard template to clone from when creating new projects.
+# Lecture Demo - Java8 Features
 
-## How to use
-* To use this project as template, _clone_ the project into you `~/dev` directory.
-* Upon cloning, open the project in a text editor (VSCode, IntelliJ, SublimeText, Atom, etc.)
-* Ensure that the `artifactId` of the project is changed from `maven-template-project` to a more appropriate project name.
-* Click view the [`README-Sample.md`](./README-Sample.md) to view _how_ a `README` should be structured for a project.
+* **Objective** - To demonstrate use of `FunctionalInterface` in java8
+
+## Part 1 - Clone the project
+* Begin by _forking_ this project into a personal repository.
+   * To do this, click the `Fork` button located at the top right of this page.
+* Navigate to **your github profile** to find the _newly forked repository_.
+* Clone the repository from **your account** into your `~/dev` directory.
+* Open the newly cloned project in a code editor (Visual Studio Code, for example).
+
+## Part 2 - Getting started
+* Begin by first... 
